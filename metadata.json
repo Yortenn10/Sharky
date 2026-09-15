@@ -1,0 +1,6 @@
+{
+  "name": "Kado Ulang Tahun Hiu Qiya",
+  "description": "Kado ulang tahun interaktif bertema laut dan hiu Yubi spesial untuk Qiya, dengan animasi hiu, galeri memori, game mutiara laut, afirmasi tulisan, dan botol harapan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
